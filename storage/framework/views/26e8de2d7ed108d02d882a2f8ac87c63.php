@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\Toko_Online\resources\views\admin\index.blade.php ENDPATH**/ ?>
